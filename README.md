@@ -73,6 +73,6 @@ Hi there, I'm Shivprasad Bodke 👋
 ### 📞 Connect with Me
 
 - **LinkedIn**: https://www.linkedin.com/in/shivprasad-bodke
-- **Email**: mailto:shivbodke03@gmail.com
+- **Email**: shivbodke03@gmail.com
 - **GitHub**: https://github.com/dev-SSB
 
