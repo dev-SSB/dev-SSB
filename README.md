@@ -1,10 +1,8 @@
-
 <h1 align="center">
 Hi there, I'm Shivprasad Bodke 👋
 <br> <br>
 「 I'm a passionate Front-End developer from <b>India</b> 」
 </h1>
-<br>
 
 
 <h2> 💻 Web Development Skills </h2>
