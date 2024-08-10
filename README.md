@@ -61,8 +61,8 @@ Hi there, I'm Shivprasad Bodke 👋
 
 ###
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dev-SSB&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dracula&hide_border=false&order=2" height="200" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dev-SSB&radius=16&theme=react&area=true&order=5" height="200" alt="activity-graph graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dev-SSB&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dracula&hide_border=false&order=2" height="250" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dev-SSB&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
 
