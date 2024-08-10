@@ -1,6 +1,6 @@
 <h1 align="center">
 Hi there, I'm Shivprasad Bodke 👋
-<br> <br>
+<br>
 「 I'm a passionate Front-End developer from <b>India</b> 」
 </h1>
 
@@ -8,41 +8,21 @@ Hi there, I'm Shivprasad Bodke 👋
 
 
 ### 📝<a href="https://drive.google.com/file/d/1fconx_7lsJtcdi2MADopgHpimja2bGEb/view?usp=sharing" target="_blank" style="text-decoration: underline; color: #1a73e8;"> &nbsp;My Resume</a>
-<br>
 
 
 
 ### ⚙️ &nbsp;My Tech Stack
 
+
 #### Web Development
 <div align="left">
-  <table style="margin: 0 auto;">
-    <tr>
-      <td align="center" width="140" style="border: 1px solid #e1e4e8; padding: 10px; transition: transform 0.3s;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" alt="HTML5" />
-        <br /><strong>HTML5</strong>
-      </td>
-      <td align="center" width="140" style="border: 1px solid #e1e4e8; padding: 10px; transition: transform 0.3s;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" alt="CSS3" />
-        <br /><strong>CSS3</strong>
-      </td>
-      <td align="center" width="140" style="border: 1px solid #e1e4e8; padding: 10px; transition: transform 0.3s;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript" />
-        <br /><strong>JavaScript</strong>
-      </td>
-      <td align="center" width="140" style="border: 1px solid #e1e4e8; padding: 10px; transition: transform 0.3s;">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" width="50" height="50" alt="Bootstrap" />
-        <br /><strong>Bootstrap</strong>
-      </td>
-      <td align="center" width="140" style="border: 1px solid #e1e4e8; padding: 10px; transition: transform 0.3s;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" width="50" height="50" alt="jQuery" />
-        <br /><strong>jQuery</strong>
-      </td>
-    </tr>
-  </table>
-</div>
-
-
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Bootstrap-%237952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+  <img src="https://img.shields.io/badge/jQuery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery"/>
+ </div>
+ 
 #### Programming Languages 
 <div align="left">
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
@@ -79,7 +59,6 @@ Hi there, I'm Shivprasad Bodke 👋
 
 
 
-<br> <br>
 ###
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dev-SSB&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
@@ -90,7 +69,7 @@ Hi there, I'm Shivprasad Bodke 👋
 
 
 
-<br> <br>
+
 ### 📞 Connect with Me
 
 - **LinkedIn**: https://www.linkedin.com/in/shivprasad-bodke
