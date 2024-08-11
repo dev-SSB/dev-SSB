@@ -7,7 +7,7 @@ Hi there, I'm Shivprasad Bodke 👋
 
 
 
-### 📝<a href="[https://drive.google.com/file/d/13kYh0QVteupfet-BRlVL8Lpg8lxhUpiv/view?usp=sharing" target="_blank](https://drive.google.com/file/d/1BD8GtTYPPTdB-YaQyVUVx9LZqGaKqoMF/view?usp=sharing)" style="text-decoration: underline; color: #1a73e8;"> &nbsp;My Resume</a>
+### 📝<a href="https://drive.google.com/file/d/1BD8GtTYPPTdB-YaQyVUVx9LZqGaKqoMF/view?usp=sharing" style="text-decoration: underline; color: #1a73e8;"> &nbsp;My Resume</a>
 
 
 
