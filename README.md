@@ -55,7 +55,10 @@ Hi there, I'm Shivprasad Bodke 👋
 </div>
 
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/dev-SSB?theme=dark)
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/dev-SSB?theme=dark" alt="Leetcode Stats">
+</div>
+
 
 
 ### 📞 Connect with Me
