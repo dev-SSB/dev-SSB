@@ -1,5 +1,5 @@
 <h1 align="center">
-Hi there, I'm Shivprasad Bodke 👋
+Hi there, I'm Shivprasad 👋
 <br> <br>
 「 I'm a passionate Front-End developer from <b>India</b> 」
 </h1>
