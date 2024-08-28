@@ -6,9 +6,9 @@ Hi there, I'm Shivprasad Bodke 👋
 
 
 
-
-### 📝<a href="https://drive.google.com/file/d/1h5nbNq2d1tOJmqN0obHH1Gz466k_OsJH/view?usp=sharing" style="text-decoration: underline; color: #1a73e8;"> &nbsp;My Resume</a>
-
+<h1 align="center">
+📝<a href="https://drive.google.com/file/d/1h5nbNq2d1tOJmqN0obHH1Gz466k_OsJH/view?usp=sharing" style="text-decoration: underline; color: #1a73e8;"> &nbsp;My Resume</a>
+</h1>
 
 
 ### ⚙️ &nbsp;My Tech Stack
