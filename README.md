@@ -7,7 +7,7 @@ Hi there, I'm Shivprasad 👋
 
 
 <h1 align="center">
-📝<a href="https://drive.google.com/file/d/1h5nbNq2d1tOJmqN0obHH1Gz466k_OsJH/view?usp=sharing" style="text-decoration: underline; color: #1a73e8;"> &nbsp;My Resume</a>
+📝<a href="https://drive.google.com/file/d/1R-1i8noyytX0TJEWXQpEDMZz7aP9Nlmm/view?usp=drive_link" style="text-decoration: underline; color: #1a73e8;"> &nbsp;My Resume</a>
 
 
 <h1  align="center"> 
